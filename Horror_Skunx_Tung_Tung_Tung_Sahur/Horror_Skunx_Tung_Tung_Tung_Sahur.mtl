@@ -1,0 +1,17 @@
+# Materials for Horror_Skunx_Tung_Tung_Tung_Sahur
+# Exported by SketchFab Likolus Export
+# All texture paths are relative (textures/...)
+
+newmtl tripo_node_1a766a31_tripo_mat_1a766a31_0
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Ke 0.000 0.000 0.000
+Ns 8.000
+Ni 1.000
+d 1.000
+illum 2
+Pr 0.500
+Pm 0.000
+Ps 0.000
+map_Kd textures/173dd5418c5340b0ace84a918ddb2a2c_albedo.png
